@@ -1,0 +1,14 @@
+@import "variable";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    color: $red-color;
+}
+
+h2 {
+    color: green;
+}
